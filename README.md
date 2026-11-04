@@ -12,7 +12,7 @@ The project has two stages:
 - Arduino Nano (planned soldered version)
 - 7 LEDs
 
-https://github.com/user-attachments/assets/656e8add-bde9-4ebc-b047-4bc877f6e4bf
+
 
 
 - 7 current-limiting resistors (1 kΩ for softer LED brightness)
@@ -62,6 +62,7 @@ The first version uses an **Arduino Uno** and a breadboard. It lets me test the 
 
 ### Prototype Video
 
+https://github.com/user-attachments/assets/656e8add-bde9-4ebc-b047-4bc877f6e4bf
 
 ### How It Works
 
