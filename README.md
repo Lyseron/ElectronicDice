@@ -19,6 +19,8 @@ The project has two stages:
 
 ## 🔌 Pin Connections
 
+ <img src="images/circuit-image.jpg" alt="Circuit" />
+
 | Component | Arduino Pin |
 | --- | --- |
 | Top-left LED | D2 |
