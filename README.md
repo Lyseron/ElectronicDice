@@ -19,7 +19,7 @@ The project has two stages:
 
 ## 🔌 Pin Connections
 
- <img src="images/circuit-image.jpg" alt="Circuit" />
+ <img src="images/circuit_image.jpg" alt="Circuit" />
 
 | Component | Arduino Pin |
 | --- | --- |
