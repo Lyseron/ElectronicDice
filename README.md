@@ -50,12 +50,10 @@ The button uses `INPUT_PULLUP`, so it is connected between **D9 and GND**. Each 
 
 The first version uses an **Arduino Uno** and a breadboard. It lets me test the connections and all six dice faces before soldering the final circuit.
 
-### 📸 Prototype Photos
+### 📸 Prototype Photo
 
 <p align="center">
-  <img src="images/prototype-1.jpg" alt="Breadboard prototype — overview" width="30%" />
-  <img src="images/prototype-2.jpg" alt="Breadboard prototype — wiring" width="30%" />
-  <img src="images/prototype-3.jpg" alt="Breadboard prototype — LEDs on" width="30%" />
+  <img src="images/prototype.jpg" alt="Breadboard prototype — overview" />
 </p>
 
 ### Prototype Video
