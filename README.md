@@ -17,9 +17,17 @@ The project has two stages:
 - Perfboard and soldering equipment (final version)
 - 9 V battery, battery clip, and ON/OFF switch (final version)
 
-## 🔌 Pin Connections
 
- <img src="images/circuit_image.png" alt="Circuit" width="600" height="400"/>
+<h2>🔌 Pin Connections</h2>
+
+<table>
+  <tr>
+    <td width="55%" align="center">
+      <img src="images/circuit_image.png"
+           alt="Circuit"
+           width="800"/>
+    </td>
+    <td width="45%" valign="middle">
 
 | Component | Arduino Pin |
 | --- | --- |
@@ -31,6 +39,10 @@ The project has two stages:
 | Bottom-left LED | D7 |
 | Bottom-right LED | D8 |
 | Roll button | D9 |
+
+  </tr>
+</table>
+
 
 The button uses `INPUT_PULLUP`, so it is connected between **D9 and GND**. Each LED has **its own series resistor**. Pin **A0** is left unconnected and used for the pseudo-random seed with `randomSeed(analogRead(A0))`.
 
