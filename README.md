@@ -11,6 +11,10 @@ The project has two stages:
 - Arduino Uno (breadboard prototype)
 - Arduino Nano (planned soldered version)
 - 7 LEDs
+
+https://github.com/user-attachments/assets/656e8add-bde9-4ebc-b047-4bc877f6e4bf
+
+
 - 7 current-limiting resistors (1 kΩ for softer LED brightness)
 - 1 momentary push button
 - Breadboard and jumper wires
