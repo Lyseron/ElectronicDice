@@ -97,7 +97,9 @@ The sketch uses `pinMode()`, `digitalRead()`, `digitalWrite()`, `random()`, `ran
 ```text
 .
 ├── README.md
+├── Dice.ino
 ├── images/
+│   ├── circuit-image.png
 │   ├── prototype-1.jpg
 │   ├── prototype-2.jpg
 │   ├── prototype-3.jpg
