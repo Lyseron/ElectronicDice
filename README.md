@@ -106,33 +106,14 @@ The final version is **assembled and working** on perfboard. I replaced the Ardu
 - I connected the push button between **D9 and GND**.
 - I connected a **9 V battery clip** to power the final build without USB.
 
-### Battery Power
+## Battery Power
 
-The classic 5 V Arduino Nano is powered through its **VIN** and **GND** pins:
+For my classic 5 V Arduino Nano, I connected the battery as follows:
 
-<table>
-  <tr>
-    <td width="55%" align="center">
-      <img src="images/circuit_image_nano.png"
-           alt="Circuit"
-           width="800"/>
-    </td>
-    <td width="45%" valign="middle">
-
-| Component | Nano Pin |
-| --- | --- |
-| Top-left LED | D2 |
-| Top-right LED | D3 |
-| Middle-left LED | D4 |
-| Center LED | D5 |
-| Middle-right LED | D6 |
-| Bottom-left LED | D7 |
-| Bottom-right LED | D8 |
-| Roll button | D9 |
-| Batterie Red (+9 V) | VIN |
-
-  </tr>
-</table>
+| 9 V battery clip | Nano |
+| :--- | :--- |
+| Red wire (+) | **VIN** |
+| Black wire (−) | **GND** |
 
 There is currently **no ON/OFF switch**. The battery must be disconnected when the dice is not in use to prevent unnecessary battery drain.
 
@@ -187,4 +168,4 @@ But **the circuit works**, and building it helped me become more comfortable wit
 
 > **Biggest takeaway:** A project doesn't have to look perfect to be a valuable learning experience. Building, testing, making mistakes, and improving are all part of the process.
 
-**Made with Arduino, a soldering iron, and a lot of learning. **
+**Made with Arduino, a soldering iron, and a lot of learning.**
